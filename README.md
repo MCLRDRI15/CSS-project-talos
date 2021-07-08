@@ -1,2 +1,3 @@
 # CSS-project-talos
-project
+
+this page is developed from previously given specifications
